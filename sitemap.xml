@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://ephemeral-kulfi-b30922.netlify.app/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
-  </url>
+  <url><loc>https://ephemeral-kulfi-b30922.netlify.app/</loc><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://ephemeral-kulfi-b30922.netlify.app/cursos/fundamentos/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://ephemeral-kulfi-b30922.netlify.app/cursos/prompts/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://ephemeral-kulfi-b30922.netlify.app/cursos/chatgpt/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://ephemeral-kulfi-b30922.netlify.app/cursos/claude/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://ephemeral-kulfi-b30922.netlify.app/cursos/gemini/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://ephemeral-kulfi-b30922.netlify.app/cursos/imagem/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://ephemeral-kulfi-b30922.netlify.app/cursos/video/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://ephemeral-kulfi-b30922.netlify.app/cursos/produtividade/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://ephemeral-kulfi-b30922.netlify.app/cursos/programacao/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://ephemeral-kulfi-b30922.netlify.app/cursos/automacao/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://ephemeral-kulfi-b30922.netlify.app/cursos/negocios/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://ephemeral-kulfi-b30922.netlify.app/cursos/carreira/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
 </urlset>
