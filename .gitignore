@@ -1,0 +1,15 @@
+# Local environment and secrets (never commit credentials)
+.env
+.env.*
+!.env.example
+secrets/
+*.pem
+*.key
+*.p12
+*.pfx
+
+# Local tooling and operating-system files
+.netlify/
+node_modules/
+.DS_Store
+Thumbs.db
